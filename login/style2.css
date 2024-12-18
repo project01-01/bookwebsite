@@ -1,0 +1,37 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: "poppins",sans-serif;
+}
+body{
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.out{
+    display: inline-block;
+    border: solid #cfcfcf 5px;
+    border-radius: 20px;
+    width: 500px;
+    height: 600px;
+    margin-top: 50px;
+    background-color: #cfcfcf;
+}
+h1{
+    padding-top: 60px;
+}
+input{
+    margin-top: 40px;
+    padding: 20px;
+    width: 60%;
+    border-radius: 20px;
+}
+button{
+    padding: 8px 30px;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+p{
+    margin-top: 40px;
+}
